@@ -16,7 +16,9 @@ Further more what is of quintessential importance is that we correct the prices 
 
  Based on the analytical question that were provided, following are the insights (GRAPHS AND RESULTS AVAILABLE IN NOTEBOOKS):
 1) The results fo this can be seen on Question_1 notebook
-2)This Jupyter Notebook analyzes the effectiveness of promotional campaigns by examining sales data before, during, and after promotions to measure their impact on sales performance. It includes data loading, preprocessing, exploratory data analysis, and detailed statistical analysis to evaluate the impact of promotions. Key metrics such as average sales before, during, and after promotions and the lift in sales are calculated and visualized. The findings indicate a significant increase in sales during promotions, with a noticeable but smaller lift in sales immediately after the promotions end. These insights suggest that promotional campaigns are effective in boosting sales, and the notebook provides recommendations for optimizing future promotional strategies based on these results. 
+   
+2)This Jupyter Notebook analyzes the effectiveness of promotional campaigns by examining sales data before, during, and after promotions to measure their impact on sales performance. It includes data loading, preprocessing, exploratory data analysis, and detailed statistical analysis to evaluate the impact of promotions. Key metrics such as average sales before, during, and after promotions and the lift in sales are calculated and visualized. The findings indicate a significant increase in sales during promotions, with a noticeable but smaller lift in sales immediately after the promotions end. These insights suggest that promotional campaigns are effective in boosting sales, and the notebook provides recommendations for optimizing future promotional strategies based on these results.
+
 3) Purchsing pattern shows that consumer segment has the most order size andpurchase freuency. Each segment prefers office supplies over other categories, with consumer segment purchasing most of the office supplies.
 
 
