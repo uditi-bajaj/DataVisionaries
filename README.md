@@ -1,2 +1,0 @@
-# DataVisionaries
-PeakAI Hackathon
