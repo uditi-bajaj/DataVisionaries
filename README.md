@@ -21,6 +21,4 @@ Further more what is of quintessential importance is that we correct the prices 
 
 3) Purchsing pattern shows that consumer segment has the most order size andpurchase freuency. Each segment prefers office supplies over other categories, with consumer segment purchasing most of the office supplies.
 
-
-
-
+The model was then run with XGBoost with the features provided with MEP of 3.3 .
